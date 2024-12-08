@@ -8,7 +8,7 @@
 #property version   "1.00"
 #include <Trade/Trade.mqh>
 CTrade trade;
-
+//this is for test
 enum enum_Exit {
   StopReverse=0,
   MAexit=1,
